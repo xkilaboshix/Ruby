@@ -1,2 +1,2 @@
 # Ruby
-DMM WebcampのRubyの練習。
+DMM WebcampのRubyの練習
